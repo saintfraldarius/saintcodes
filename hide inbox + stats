@@ -1,0 +1,7 @@
+[href="/users/YOURUSER/inbox"] {
+  display: none !important;
+}
+
+[href="/users/YOURUSER/stats"] {
+  display: none !important;
+}
